@@ -1,0 +1,5 @@
+# Directories found anywhere
+.venv
+
+# Directories found only in HOME
+.data
